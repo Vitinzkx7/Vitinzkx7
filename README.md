@@ -45,6 +45,3 @@ Sou estudante de Ciência da Computação na Unileste com foco em Engenharia de 
 Unileste — Em andamento
 
 ---
-<p align="center">
-  <sub>Feito com dedicação por Victor Hugo · <a href="mailto:victornex2006@hotmail.com">victornex2006@hotmail.com</a></sub>
-</p>
