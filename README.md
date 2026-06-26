@@ -11,12 +11,9 @@
   <a href="mailto:victornex2006@hotmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://portifolio-victor-hugo.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
 
----
+
+
 
 ##  Sobre mim
 
@@ -25,23 +22,8 @@ Sou estudante de Ciência da Computação na Unileste com foco em Engenharia de 
 ---
 
 ##  Tecnologias & Ferramentas
-
-### Dados
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-
-
-### Infraestrutura
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-##  Formação Acadêmica
-
-**Bacharelado em Ciência da Computação**
-
-Unileste — Em andamento
-
----
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GoLang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
