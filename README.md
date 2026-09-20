@@ -17,7 +17,7 @@
 
 ##  About Me
 
-I am a Computer Science student at Unileste, specializing in AI Engineering. I am interested in building AI pipelines, designing AI solution architectures, and developing robust applications. Currently, I am working on personal projects that combine technologies used in the AI field.
+I am a Computer Science student, specializing in AI Engineering. I am interested in building AI pipelines, designing AI solution architectures, and developing robust applications. Currently, I am working on personal projects that combine technologies used in the AI field.
 ---
 
 ## Technologies & Tools
