@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Victor Hugo </h1>
 
 <p align="center">
-  Computer Science  <strong>Student</strong>  <strong>AI Engineer</strong>
+<strong>AI Engineer</strong>
 </p>
 
 <p align="center">
