@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou Victor Hugo </h1>
+<h1 align="center">Hello, I am Victor Hugo </h1>
 
 <p align="center">
-  Estudante de <strong>Ciência da Computação</strong> na Unileste · <strong>Engenheiro de Dados</strong>
+  Computer Science  <strong>Student</strong>  <strong>AI Engineer</strong>
 </p>
 
 <p align="center">
@@ -17,8 +17,7 @@
 
 ##  Sobre mim
 
-Sou estudante de Ciência da Computação na Unileste com foco em Engenharia de Dados. Tenho interesse em construção de pipelines de dados, arquitetura de soluções orientadas a dados e desenvolvimento de aplicações robustas. Atualmente desenvolvo projetos pessoais que combinam as tecnologias utilizadas na área de dados.
-
+I am a Computer Science student at Unileste, specializing in AI Engineering. I am interested in building AI pipelines, designing AI solution architectures, and developing robust applications. Currently, I am working on personal projects that combine technologies used in the AI field.
 ---
 
 ##  Tecnologias & Ferramentas
