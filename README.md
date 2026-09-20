@@ -20,7 +20,7 @@
 I am a Computer Science student at Unileste, specializing in AI Engineering. I am interested in building AI pipelines, designing AI solution architectures, and developing robust applications. Currently, I am working on personal projects that combine technologies used in the AI field.
 ---
 
-##  Tecnologias & Ferramentas
+## Technologies & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
